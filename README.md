@@ -1,2 +1,0 @@
-# TodoAppReact
-Created with CodeSandbox
